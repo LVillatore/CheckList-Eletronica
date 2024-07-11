@@ -1,0 +1,7 @@
+Aqui estão os pontos que eu achei mais interessantes da seção sobre o sistema elétrico do regulamento:
+
+- Chaves Gerais: O veículo deve ter pelo menos duas chaves gerais que desativem a ignição do motor.
+- Capacidade da Bateria: A capacidade total das baterias não deve exceder 360 W.h, e nenhuma bateria individual pode ter mais de 240 W.h.
+- Luz de Freio: Deve acender ao acionar o freio e apagar completamente quando desacionado, sendo facilmente visível a uma distância de 20 m em um dia ensolarado.
+- Interruptor da Luz de Freio: Deve ser ativado por pressão hidráulica e cada circuito independente de freio deve ter um interruptor exclusivo.
+- Luz e Alarme de Marcha Ré: Veículos com marcha ré devem ter uma luz de ré com tecnologia LED, instalada a pelo menos 0,7 m do solo. Devem ser equipados com um alarme de ré que soe sempre que o veículo estiver em marcha ré​
